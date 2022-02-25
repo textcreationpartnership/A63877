@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to the clergy of the diœcess of Ely from the Bishop of Ely ; before, and preparatory to his visitation.</title>
+            <author>Church of England. Diocese of Ely. Bishop (1684-1690 : Turner)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63877</idno>
+            <idno type="STC">Wing T3277</idno>
+            <idno type="STC">ESTC R38378</idno>
+            <idno type="EEBO-CITATION">17352165</idno>
+            <idno type="OCLC">ocm 17352165</idno>
+            <idno type="VID">106411</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63877)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106411)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1105:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to the clergy of the diœcess of Ely from the Bishop of Ely ; before, and preparatory to his visitation.</title>
+                  <author>Church of England. Diocese of Ely. Bishop (1684-1690 : Turner)</author>
+                  <author>Turner, Francis, 1638?-1700.</author>
+               </titleStmt>
+               <extent>[2], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Hayes,</publisher>
+                  <pubPlace>Cambridge [Cambridgeshire] :</pubPlace>
+                  <date>M.DC.LXXXVI [1686]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Pastoral letters and charges.</term>
+               <term>Visitation sermons.</term>
+               <term>Theology, Practical.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106411:1"/>
+            <pb facs="tcp:106411:1" rendition="simple:additions"/>
+            <p>A LETTER TO THE CLERGY OF THE Dioeceſs of Ely, FROM THE BISHOP OF ELY. Before, and Preparatory TO HIS VISITATION.</p>
+            <p>
+               <hi>CAMBRIDGE,</hi> Printed by <hi>J. Hayes.</hi> M. DC. LXXXVI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:106411:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:106411:2"/>
+            <head>Salutem &amp; Officia in Chriſto Jeſu.</head>
+            <opener>
+               <salute>Good Brother,</salute>
+            </opener>
+            <p n="1">I. HAving laſt Year (the firſt of My Tranſlation) Perſonally Viſited your Church, and every Pariſh-Church within My Juriſdiction, to Adminiſter <hi>Confirmation,</hi> bringing it home even to your own doors, and to know the preſent State of My whole Dioeceſs, before I would Enter upon My <hi>Triennial Viſitation;</hi> I thank God, I find no Cauſe to ſay upon the whole Account, <hi>He that encreaſeth Knowledge, encreaſeth Sorrow;</hi> Since rather with a great deal of Joy I find my Lott is fallen among a Clergy, for the generality of them, as Devout and Diligent, as Learned and Studious, as Orthodox and Regular, as Able and Willing to Rectify whatſoever is Amiſs, as any Clergy Our <hi>Holy Mother</hi> the Church of <hi>England</hi> can (I verily believe) ſhow in any Dioeceſs.</p>
+            <pb n="2" facs="tcp:106411:3"/>
+            <p>And now I am very deſirous to reap the Fruits of my laſt Year's Labours, to ſee very good effects of that particular Inſpection, whereupon, I ſuppoſe, you Receiv'd a ſpe<g ref="char:EOLhyphen"/>cial <hi>Injunction,</hi> to Regulate ſeveral things that were out of Order. And I am ſo full of Concern, that the General Review to be made ere long at the <hi>Viſitation,</hi> may be made ef<g ref="char:EOLhyphen"/>fectual, that I cannot forbear Addreſſing my ſelf to you at this time, Beſeeching you now to lend me both your hands, with all your moſt Active and vigorous Brotherly Aſsi<g ref="char:EOLhyphen"/>ſtance; And (if I may preſume to uſe the <hi>Apoſtle's</hi> expreſsion) <hi>Though I might be much bold in Chriſt, to enjoyn you That which is Con<g ref="char:EOLhyphen"/>venient, yet for Love's ſake I rather beſeech you.</hi>
+            </p>
+            <p n="2">II. I Chooſe this Way of Communicating my thoughts by Letter, partly to ſuperſede the Neceſſity of my making any long ſpeeches (when there will be ſo much other and bet<g ref="char:EOLhyphen"/>ter work) at our <hi>Set-Meeting.</hi> May it pleaſe <hi>God</hi> to bleſs it for the good of his Church! But chiefly I conſider that ſeveral Adver<g ref="char:EOLhyphen"/>tiſements, which may now be uſefull Pre<g ref="char:EOLhyphen"/>paratives, would come ſomewhat too late, when Preſentments were once Drawn and Brought and offer'd to us.</p>
+            <p n="3">III. I do therefore in the firſt place en<g ref="char:EOLhyphen"/>treat and expect it from you, as you would
+<pb n="3" facs="tcp:106411:3"/> 
+               <hi>not be a Partaker of other Mens Sins,</hi> That you be exceeding Carefull at this time to ſhew your <hi>Church-Wardens</hi> their Duty, and eſpecially to make them ſenſible how great a Guilt they contract, if they break the ſolemn Oath which they muſt all take upon this Oc<g ref="char:EOLhyphen"/>caſion.</p>
+            <p n="4">IV. But beſides thus giving them war<g ref="char:EOLhyphen"/>ning of their Duty and Danger in Ge<g ref="char:EOLhyphen"/>neral, I am in hopes you will not grudge to give them your beſt Adviſe, to compare my <hi>Articles</hi> with the preſent condition of your Pariſh; and Direct them how to Diſcharge a good Conſcience by making a particular, ſincere, and ſufficient Anſwer to each Ar<g ref="char:EOLhyphen"/>ticle; and joyn your ſelves with them in the Preſentments, as by conſequence from the Canon you are Oblig'd to do, if need be (and <note place="margin">
+                  <hi>Can.</hi> 113</note> ſure there was never more need) <hi>when you cannot otherwiſe Root out Sin and Impiety.</hi>
+            </p>
+            <p>And your thus Joyning with the Church-Wardens in their Preſentments, and ſub<g ref="char:EOLhyphen"/>ſcribing them with your own hands, ſhall be Admitted and Accepted inſtead of the Miniſters preſenting ſeparately and by them<g ref="char:EOLhyphen"/>ſelves, <hi>all thoſe that do not Communicate at Eaſter,</hi> whereas Orders ſhall Iſſue ſpeedily to Re<g ref="char:EOLhyphen"/>quire that <hi>ſpecial Preſentment</hi> (according to the Hundred and twelfth Canon) to be made
+<pb n="4" facs="tcp:106411:4"/> by thoſe Miniſters, whom Reaſon and This Requeſt will not prevail withall to joyn with their <hi>Church-Wardens</hi> in this <hi>General One.</hi>
+            </p>
+            <p n="5">V. But further let Me prevail with you, that publickly by your Preaching at this time, and profeſſedly, with regard to the Approaching <hi>Viſitation,</hi> you would ſhew the people, they are Obliged in Conſcience now to make their juſt open Complaints, inſtead of Odious Reflections behind our Backs, and that you would make your <hi>Pariſh</hi> underſtand, what our <hi>Bleſſed Saviour</hi> intended, when He expreſsly commanded, <hi>Tell it to the Church,</hi> that none may be Deter'd by any unworthy Cenſures, as if they were baſe <hi>Informers,</hi> from doing that Chriſtian Office.</p>
+            <p n="6">VI. That as well in your Sermons, as in your private Conferences with your Pa<g ref="char:EOLhyphen"/>riſhioners, you labour to make them deeply apprehenſive of the great and heavy load, which the juſt Cenſures of the Church do lay upon grievous Offenders in any kind; and particularly upon ſuch Officers of her own, as Deliberately Forſwear themſelves; and that they may have no reaſon to bear any Malice to ſuch as do but their Duties in making Preſentments, you are ſeriouſly and vehemently to Repreſent a <hi>well-deſerv'd Excommunication's</hi> ſad effects on their Souls
+<pb n="5" facs="tcp:106411:4"/> and Conſciences; and beſides thoſe Spiritual, to put them in mind of the Temporal ill effects, that in caſe of extremity may follow on their Fortunes, and Liberties, at leaſt on their Eaſe and Quiet, and Good Name. Be<g ref="char:EOLhyphen"/>ſides what the Laws againſt Perjury may do, if preſs'd againſt ſuch men as make no Con<g ref="char:EOLhyphen"/>ſcience of giving in a known notorious Lye, with an <hi>Omnia Bene</hi> under their own hands, juſt after having laid them on the Holy Bible.</p>
+            <p n="7">VII. But there is certainly another part of your Office, which in Order of Nature and time ſhould go before that of preſenting De<g ref="char:EOLhyphen"/>linquents. And the part which I mean is this: you are perſonally (and now moſt con<g ref="char:EOLhyphen"/>cernedly) to Apply your ſelves in Order to the Convincing and Reclaiming ſuch as ſtand liable to Eccleſiaſtical Cenſures, ſo as (if it be poſſible) to prevent the Neceſſity of uſing Rigour with them: you may Divide ſuch Obnoxious Perſons into three Generals; thoſe who are wholly out of the Churches Com<g ref="char:EOLhyphen"/>munion; or thoſe who pretending to be part<g ref="char:EOLhyphen"/>ly in it, yet Omit their Chriſtian Duties of frequenting the Divine Service, and the Holy Sacrament, from ſome Erroneous Principle they have taken up; Or thoſe, who are for<g ref="char:EOLhyphen"/>ward as the foremoſt to come even to the
+<pb n="6" facs="tcp:106411:5"/> 
+               <hi>Spiritual Feaſt</hi> it ſelf, <hi>But without the wedding Garment,</hi> i. e. In their Ignorance, or their Wickedneſs, ſtill leading their Lives in Scan<g ref="char:EOLhyphen"/>dalous and Notorious Sin, ſuch as <hi>Common Swearing, habitual Drunkenneſs, Fornication, A<g ref="char:EOLhyphen"/>dultery.</hi> According to their ſpecial Exigences and ſeveral wretched Circumſtances you are to treat with theſe. If you cannot Obtain of them to come and diſcourſe with you at your own Houſes, you muſt even go to Theirs; remembring, who it was <hi>that went about doing good, and healing</hi> even at their Houſes where He knew <hi>they Watcht him, and laid Wait to entangle him in his Talk.</hi> And conſidering His expreſs and moſt wiſe Appointment, Firſt <hi>to tell the Offending Brother his fault between you and Him;</hi> But if that do <hi>not gain your Brother,</hi> then <hi>to take with you two or three Witneſſes;</hi> As you may do your Church-Wardens or ſome other ſteddy underſtanding Men in your Pariſh, and Try again to Reduce and Perſwade him to give ſatisfaction to the Church, before you pre<g ref="char:EOLhyphen"/>ſent him; Nay in Extraordinary Caſes you may call in the help of ſome Diſcreet and Worthy Neighbour-Miniſter: And if neither of theſe Courſes prevail, then your Third ſtep muſt be <hi>Telling it to the Church,</hi> whoſe hea<g ref="char:EOLhyphen"/>vieſt Sentence of Excommunication ought
+<pb n="7" facs="tcp:106411:5"/> not indeed to be preſs'd and paſs'd without ſuch fair Admonitions, as I hope you now will give. And I ſhould be glad, if there be time at Our Meeting, to conſult with you, and make ſome Propoſals to you, how more particularly to form our Methods of inflict<g ref="char:EOLhyphen"/>ing the Spiritual Cenſures within this Dioe<g ref="char:EOLhyphen"/>ceſe ſo leiſurely, orderly, and openly, that no Body may pretend to be ſurpriz'd, and it ſhall be long of his own Obſtinacy, if any one ſee himſelf in that Deplorable State, <hi>that He is to be as an Heathen to other Chriſtians.</hi>
+            </p>
+            <p n="8">VIII. Now to prepare us both for our preach<g ref="char:EOLhyphen"/>ing to the People on this ſubject of Excom<g ref="char:EOLhyphen"/>munication, and for Diſcourſing it among our ſelves, or deſigning the means of ma<g ref="char:EOLhyphen"/>naging it to <hi>Edification,</hi> not to <hi>Deſtruction,</hi> I Recommend it to you (eſpecially if you live not in the Univerſity but in the Country, where you have not the uſe of many Books) to procure and peruſe One inſtead of <hi>All,</hi> and that is My Reverend Friend, Dr. <hi>Comber</hi>'s late excellently learned, and no very long Treatiſe of <hi>Excommunication.</hi>
+            </p>
+            <p>In order to the Reſtoring of this, and ſe<g ref="char:EOLhyphen"/>veral other parts of our loſt Diſcipline, I am reſolv'd to Revive (if God bleſs me) that antient, and uſefull Cuſtom of my Reverend Predeceſſors the Biſhops of <hi>Ely,</hi> immediately
+<pb n="8" facs="tcp:106411:6"/> before the Great Rebellion (a Cuſtom ac<g ref="char:EOLhyphen"/>cording to an excellent Antient Canon of the <hi>Brittiſh Church)</hi> to have Synodical Meetings of the <hi>Clergy</hi> once a <hi>year</hi> at leaſt. At which Aſſemblies I will not fail (with God's help) when I can, to Attend conſtantly. I alſo Deſign as often as I can to have inſpection into the ſtate and condition of each Cure of Souls in the Dioeceſe.</p>
+            <p n="9">IX. And that I may not then proceed in the Dark, and that you may be able to give me, and your ſelves ſuch Lights as are but Ne<g ref="char:EOLhyphen"/>ceſſary for us, I do moſt earneſtly Deſire you, and ſure I need not ſay I require (the thing that I ask being ſo very <hi>Requiſite</hi> in its own Nature) that you will make, and bring in with you to the <hi>Viſitation</hi> (beſides the Pre<g ref="char:EOLhyphen"/>ſentments) fairly written in a Paper by its ſelf, a <hi>Notitia</hi> of your Pariſh; By <hi>Notitia</hi> I mean an Account of every Family, expreſſing the Chriſtian and Syrname of the Houſe-Keeper, the Number and Names of all Perſons a<g ref="char:EOLhyphen"/>bove Sixteen Years old in that Family by themſelves, and of all under Sixteen by them<g ref="char:EOLhyphen"/>ſelves, ſetting for a Mark the Letters A. C. overright the Name of every Adult, that is an Actual Communicant in each Family, and <hi>C. A.</hi> for a Mark over the Name of every Child that has bin ſufficiently well Cate<g ref="char:EOLhyphen"/>chiz'd;
+<pb n="9" facs="tcp:106411:6"/> and <hi>Con.</hi> for a Mark over every One that has bin already Confirm'd: by this means, both you and I, ſhall be able to Diſ<g ref="char:EOLhyphen"/>cern at one view, what is already done, and what there is yet to do. And I deſire each Miniſter carefully to keep a Copy by him of his <hi>Notitia,</hi> remembring 'tis One part of the Character of the Good Shepherd, not onely <hi>to Know his ſheep, and be known of them,</hi> But <note place="margin">
+                  <hi>Joh.</hi> 10. 3, 14.</note> even <hi>to Call his own ſheep by Name. And ſince he is even to lay down his Life for the ſheep,</hi> 'tis hard if he will not lay out a little of his time for them, while <hi>his flocks paſs under the</hi> 
+               <note place="margin">
+                  <hi>Jer.</hi> 33. 13<g ref="char:punc">▪</g>
+               </note> 
+               <hi>hands of him that Telleth them.</hi> And his pains will be much for his Eaſe afterward, and of great uſe to him as well as to me upon ſe<g ref="char:EOLhyphen"/>veral Occaſions.</p>
+            <p>For this being eaſily Revis'd and Produc'd at Confirmations, will alſo ſerve to prevent the Common irregular practiſe of Men, and Women, and Children coming over and over again to be Confirm'd; and will pre<g ref="char:EOLhyphen"/>ſently ſhow the Miniſter whom he ought to inſtruct and prepare for Confirmation.</p>
+            <p>This Liſt will be alſo very ſerviceable in order to thoſe Perſonal Applications to your Pariſhioners before the Holy Communion; and this Liſt, being fill'd up or alter'd (as
+<pb n="8" facs="tcp:106411:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:106411:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:106411:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:106411:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:106411:9"/> your Pariſh changes) from time to time, will always lay before you the State of that <hi>Cure of Souls, which in the Name of God was at your Inſtitution committed to your Charge.</hi>
+            </p>
+            <p n="10">X. Of ſome other things fit to be done, or at leaſt begun before <hi>the Viſitation,</hi> and of ſome things at it, for the better and more Orderly Management of it, I think fit to give you Notice and Intimation.</p>
+            <p>For ſuch Matters as ſhould be taken care of before we meet, I muſt obſerve to you:</p>
+            <p>That having in the Circuit I made about this time Twelve Month, found very many of the <hi>Chancells,</hi> and <hi>Churches,</hi> and <hi>Houſes</hi> be<g ref="char:EOLhyphen"/>longing to the Church, very ſadly <hi>Dilapidated,</hi> or at leaſt mightily out of Repair, I have now ſo pleaſing Accounts from many places of the Care already taken, not onely to keep up thoſe <hi>Fabricks,</hi> but to make them <hi>Decent,</hi> as I think my ſelf Obliged to make theſe my expreſs Acknowledgements to thoſe my good Brethren of the Clergy, and I deſire they will do it for me to thoſe Worthy Gentlemen, that have bin forward to pro<g ref="char:EOLhyphen"/>mote ſo Good Works, and to ſhew <hi>their Love of Decency in the houſe of God.</hi>
+            </p>
+            <p>Yet being well inform'd, that in ſeveral of thoſe places where I found things moſt amiſs, the Orders ſent them have not hither<g ref="char:EOLhyphen"/>to
+<pb n="11" facs="tcp:106411:9"/> found their effects, not ſo much as to Be<g ref="char:EOLhyphen"/>gin the Repairs, I muſt and do Require it of the Miniſters themſelves in thoſe places, to preſs hard for the putting of things on the Mending hand before our Meeting, or if they cannot prevail, then to meet me with Preſentments in their hands againſt ſuch Church-Wardens as think to Wear out their Year without doing any thing in their Office toward ſuch Reparations.</p>
+            <p>And when you are ſet into the work for the due execution of thoſe Orders ſent for Repairing and Adorning of Holy Places, I truſt you will procure that your Churches and Chancells be not onely ſecur'd from Wind and Weather, but from the coming in of Birds, and from all manner of foulneſs; conſidering the juſt ſcandal it gives to ſuch as are not in Communion with our Church, and that the ſordidneſs of ſo many Country-Churches muſt needs be one great Cauſe of the ſlovenlineſs (ſo much to be Deplor'd) that too many ſhew in their performance of the Publick Worſhip it ſelf, the Common People hardly perſwading themſelves to ſhew more <hi>Reverence</hi> there, where they ſee leſs <hi>Cleanlineſs,</hi> than in their meaneſt Cottages.</p>
+            <p n="11">XI. Being extream loth to find many Faults, and wiſhing all might be Rectifi'd
+<pb n="12" facs="tcp:106411:10"/> by your ſelves without me, if in any Places there be not conſtant <hi>Catechizing on all Sun<g ref="char:EOLhyphen"/>days in the Afternoon</hi> (for to have it onely in <hi>Lent-time,</hi> as in many places, will never ſuffi<g ref="char:EOLhyphen"/>ciently Anſwer the ends of it) I do with all imaginable earneſtneſs call upon thoſe that fail in this main point, to conſider (beſides the Neceſſity of the thing) the new Obliga<g ref="char:EOLhyphen"/>tion upon them from <hi>His Majeſty's late Royal and Gratious Letters</hi> for the Reinforcing of Catechizing, an Exerciſe upon which I muſt always lay ſo much ſtreſs, as to exact it in<g ref="char:EOLhyphen"/>diſpenſably, where I have to do.</p>
+            <p>And by <hi>Catechizing</hi> is meant and intended (as plainly appears from <hi>His Majeſties ſaid Royal Leters,</hi> as well as from our <hi>Canons</hi> and <hi>Rubricks)</hi> not only your Examining the Chil<g ref="char:EOLhyphen"/>dren, and Teaching them the words of the Catechiſm, But inſtructing them, and others of riper years (who yet may need In<g ref="char:EOLhyphen"/>ſtruction and receive no ſmall advantage) by your <hi>Explaining it publickly,</hi> ſo as in a ſhort time, all, if they be not to blame, may under<g ref="char:EOLhyphen"/>ſtand their <hi>common Chriſtianity.</hi>
+            </p>
+            <p n="12">XII. But there is one thing more which I do exceedingly long to ſee introduc't, and would fain obtain; that which the Ru<g ref="char:EOLhyphen"/>brick in the true Intent of it ſtill exacts of
+<pb n="13" facs="tcp:106411:10"/> you, <hi>to have Morning and Evening Prayer every day of the week in your Church,</hi> if you live upon your Cure, or keep a Curate upon it, and not extream far from your Church; And if by any means in the world you can prevail with at leaſt a few of your Pariſhioners, which ſure cannot be wanting in moſt Pa<g ref="char:EOLhyphen"/>riſhes, where there are either ſome devout Gentry, and Perſons of Quality, or at leaſt ſome piouſly diſpos'd People; and to all ſuch I could almoſt kneel, moſt earneſtly begging of them as they love God, and their own and other Chriſtian ſouls, that they will do their parts towards the pro<g ref="char:EOLhyphen"/>moting ſo good a Work, perhaps the Beſt, and the moſt Publick Good they can ever do in the places where they live: and where there are either poor Widows, who may well afford to be at Prayers, for thoſe whoſe Pen<g ref="char:EOLhyphen"/>ſioners they are; or where there are Chil<g ref="char:EOLhyphen"/>dren taught by a School-Maſter, or Miſtreſs, there it is very hard, if ſome little <hi>Daily Con<g ref="char:EOLhyphen"/>gregation</hi> might not be found, would but the Miniſter attempt, and labour it with as much Application and Zeal, as the thing it ſelf mightily deſerves. Nay better the Mini<g ref="char:EOLhyphen"/>ſter with, or without his Pariſh Clerk, and with but ſome of his own Family, that He may ſay <hi>When two or three are gathered together
+<pb n="14" facs="tcp:106411:11"/> in thy Name,</hi> than not to begin this worthy Deſign of Prayers twice a day in your Churches; But where that cannot be for the Diſtance of your houſes, there to have them without fail in your private families.</p>
+            <p>But on <hi>Holy-day-Eves</hi> and <hi>Holy-days,</hi> on all <hi>Litany-days,</hi> and all the <hi>Faſts</hi> of the Church, in the time of <hi>Advent</hi> and <hi>Lent, Ember-Weeks</hi> and <hi>Rogation-days,</hi> I live in good hopes, and great Expectation, you will by Degrees gain ſuch ground upon them, that you will bring ſo many to Church, as ſhall make up a numerous Congregation.</p>
+            <p n="13">XIII. I ſhould not Doubt to ſee ſuch very conſiderable good effects in a ſhort time, if you could and would either your ſelf be<g ref="char:EOLhyphen"/>ſtow, or prevail with any your Pariſhioners of Ability to beſtow, and diſperſe about the Pariſh among your People Copies of Dr <hi>Beveridge's excellent Sermon concerning the Excellency and uſefulneſs of the Common Prayer,</hi> (a Sermon which now We have Reprinted of the ſeventh Edition) Or the ſecond Edi<g ref="char:EOLhyphen"/>tion of that devout Laick Mr <hi>Seamour</hi>'s moſt pious little Book of <hi>Advice to the Readers of the Common Prayer, and to the People Attending the ſame;</hi> to which let me add that ſmall piece, but very well and Wiſely Deſign'd, and
+<pb n="15" facs="tcp:106411:11"/> lately publiſht at <hi>Oxford,</hi> Entitled, <hi>The Com<g ref="char:EOLhyphen"/>mon Prayer Book the beſt Companion in the Houſe and Cloſet, as well as in the Temple, with a par<g ref="char:EOLhyphen"/>ticular Office for the Sacrament:</hi> Which laſt Collection, if it be once commonly Re<g ref="char:EOLhyphen"/>ceiv'd, and Reverently us'd, will at the ſame time ſecure the keeping up ſober Religion in <hi>private Families,</hi> and in <hi>Cloſets,</hi> while it alſo brings the People to a good liking, pious uſing, and eaſily remembring of thoſe ſame Prayers, which at other times they ſhall hear Read in your <hi>Churches.</hi>
+            </p>
+            <p>But having touch't accidentally on the De<g ref="char:EOLhyphen"/>votions of the Family, &amp; on thoſe that are more <hi>Private</hi> and <hi>Particular,</hi> both which I aſ<g ref="char:EOLhyphen"/>ſure My Self you will always Preach up, and that moſt effectually, <hi>by letting your Light ſo ſhine before Men, that they may ſee your Good Works,</hi> and Good Example of devout Pra<g ref="char:EOLhyphen"/>ctice; let me Recommend to you, for the ſake of the Pooreſt and Meaneſt ſort of your people, the ſhort <hi>Directions for Prayer taken out of the Church-Catechiſm</hi> and Printed in one ſingle ſheet by my honoured Dear Friend, and Brother, The Right Reverend Father in God, <hi>The Lord Biſhop of Bath and Wells;</hi> And for the uſe of thoſe that are more Capable, <hi>His Revis'd Expoſition on the
+<pb n="16" facs="tcp:106411:12"/> Church Catechiſm, or the Practice of Divine Love;</hi> By the Diſtribution of theſe few ſhort cheap Treatiſes I have ſeen a World of Good has been done already, and though theſe may ſeem but ſmall things to fill a Letter withall, yet they are ſuch things as without them the Greateſt things can never be Compaſs'd.</p>
+            <p n="14">XIV. I muſt alſo inſiſt, and enjoyn you to inſiſt from this time forward upon that <hi>Rubrick for Bringing Children to Publick Ba<g ref="char:EOLhyphen"/>ptiſm in your Church;</hi> which as it will keep up the Solemnity, and ſecure the Decent performance of the thing, ſo the Office it's ſelf being Excellent will very much edifie the people. And in caſe of the Child's ſick<g ref="char:EOLhyphen"/>neſs, or extraordinary weakneſs, though you yield to <hi>Chriſten</hi> it at home with the <hi>Office for private Baptiſm,</hi> yet you are by no means to doe it with <hi>Godfathers</hi> and <hi>God<g ref="char:EOLhyphen"/>mothers,</hi> except in the Church; But when it gathers ſtrength, then you are ſtrictly to require that it be brought to <hi>Church,</hi> and it's <hi>Baptiſm</hi> publiſht there according to our <hi>Rubricks</hi> and <hi>Offices;</hi> which if Parents refuſe to Ob<g ref="char:EOLhyphen"/>ſerve, you are to refuſe entring their Chil<g ref="char:EOLhyphen"/>drens Names into the <hi>Churches-Regiſter,</hi> and to ſee ſuch Parents proceeded againſt in the Spirituall Court.</p>
+            <p n="15">
+               <pb n="17" facs="tcp:106411:12"/>XV. I doe alſo Recommend it to your effectuall care and pains, to procure the due Execution of that wiſe and uſefull Rubrick (however Diſus'd) <hi>that ſo many as intend to be partakers of the Holy Communion ſhall ſig<g ref="char:EOLhyphen"/>nifie their Names to the Curate at leaſt ſome time the day before;</hi> through the Inobſervance of which Rule ſome Excommunicated Per<g ref="char:EOLhyphen"/>ſons, or that richly Deſerve to be ſo, and ſome <hi>that have cut themſelves off</hi> from the Church, may ſurprize you, and be Admit<g ref="char:EOLhyphen"/>ted. And as I hope you will never fail on <hi>Wedneſday, Friday,</hi> and <hi>Saturday</hi> in the after<g ref="char:EOLhyphen"/>noon before the <hi>Communion-day, to have prayers in your Church,</hi> ſo methinks I ought not in Charity to Doubt, but All ſuch as intend to be <hi>Communicants</hi> will at leaſt at ſome of thoſe times (if They cannot at all of them) be preſent at the <hi>Prayers,</hi> and then, and there may they give in their <hi>Names</hi> moſt conve<g ref="char:EOLhyphen"/>niently in the Church, where to their inexpreſſible advantage they may be Diſ<g ref="char:EOLhyphen"/>courſt ſeparately without ſhaming any grown perſons, who ſtill may need ſome Inſtruction, or expoſing any one, that <hi>re<g ref="char:EOLhyphen"/>quires either Counſell</hi> or <hi>Comfort;</hi> in either of which Caſes, <hi>the Church of England</hi> In<g ref="char:EOLhyphen"/>vites and Injoynes their coming <hi>to the
+<pb n="18" facs="tcp:106411:13"/> Miniſter of their own Pariſh, or ſome other Godly Miniſter, for ghoſtly Advice.</hi>
+            </p>
+            <p n="16">XVI. And having in my laſt years pro<g ref="char:EOLhyphen"/>greſs found no fault ſo common, and almoſt General, as the Careleſs making up and Keep<g ref="char:EOLhyphen"/>ing of <hi>Pariſh Regiſters,</hi> (whereas great care ſhould be taken of thoſe Records, which may be brought for Evidence in Law) you are to make them up exactly, and at this next <hi>Viſitation</hi> to bring them in ſo perfected to the <hi>Matricula</hi> of the Dioeceſe, <hi>i. e.</hi> the Bi<g ref="char:EOLhyphen"/>ſhops <hi>Regiſter,</hi> and to ſee them kept hereafter <hi>under three locks and keys</hi> according to the Ca<g ref="char:EOLhyphen"/>non.</p>
+            <p n="17">XVII. And whereas many of the <hi>Old Ter<g ref="char:EOLhyphen"/>riers</hi> have been loſt in the Great Rebellion, and perhaps not Renewed ſince the <hi>Happy Reſtauration,</hi> and the Names of Places, by which their boundaries were Adjuſted and ſet forth, muſt needs be much chang'd in ſo long a Time, let every Incumbent, that has any <hi>Glebe,</hi> bring in a <hi>New Terrier</hi> made upon the beſt Information he can get, between this and <hi>the 25<hi rend="sup">th</hi> of next March,</hi> and let thoſe who have certain <hi>Modes</hi> and <hi>Compoſitions,</hi> ſet down a particular Account of them, that the poor remains of the Churches Patrimony may not be Devour'd.</p>
+            <p n="18">
+               <pb n="19" facs="tcp:106411:13" rendition="simple:additions"/>XVIII. For our more orderly proceeding <hi>at the Viſitation</hi> it ſelf, endeavour I pray to bring your Church-Wardens with you by 10 of the Clock in the Morning to the Beginning of Divine Service, on <hi>Munday the ſixth of September, the day of Viſitation for the Iſle, at Ely;</hi> or as you are reſpectively concern'd, by 9 of the Clock in the Morning <hi>on Wedneſday Sept.</hi> 22. and <hi>Fri<g ref="char:EOLhyphen"/>day the 24<hi rend="sup">th</hi>, at Cambridge, for the Viſitation</hi> of thoſe parts of the Dioeceſe lying in the <hi>County;</hi> which <hi>Wedneſday &amp; Friday</hi> being <hi>days of Abſtinence,</hi> and like to be our moſt buſie Days, it will be proper, decent, and moſt convenient to Diſ<g ref="char:EOLhyphen"/>patch All e're We Riſe, and then have <hi>Evening Prayer</hi> together, before we of the Clergy take our ſhort Evening Refreſhment, time enough for all to go home (if they pleaſe) that Night, not having more than 10 Miles to ride.</p>
+            <p n="19">XIX. Laſtly though it may ſeem altoge<g ref="char:EOLhyphen"/>ther forein, and no way preparatory to the Buſineſs and Enquiries of an <hi>Epiſcopal Viſitation,</hi> to ſay any thing of <hi>Ordination;</hi> yet in this Dioeceſe I'me ſure there is need to give War<g ref="char:EOLhyphen"/>ning, and ſettle the Meaſures of giving and receiving Holy Orders before our Meeting; not onely becauſe one of the <hi>ſtated</hi> times for Conferring <hi>Orders</hi> is near, but alſo, becauſe ſeveral of your Curates lately were but <hi>Dea<g ref="char:EOLhyphen"/>cons,</hi>
+               <pb n="20" facs="tcp:106411:14"/> who muſt therefore immediately (if they be found worthy) come into the <hi>Order of Prieſthood,</hi> or quit their Employments; wherein they can neither officiate through<g ref="char:EOLhyphen"/>out at <hi>the Common Prayer,</hi> having no power to give <hi>the Abſolution,</hi> nor <hi>Conſecrate the Holy Sacrament</hi> in caſe any be ſick, and dying un<g ref="char:EOLhyphen"/>expectedly. I ſhall therefore ſet down ſome Rules, which I will inviolably Obſerve in my <hi>Ordinations,</hi> that I may at leaſt keep my own <hi>hands clean</hi> then when I am to lay them on others, and <hi>That I may lay them ſuddenly on no man,</hi> the Rules I ſhall offer are ſuch, as have been Agreed upon at <hi>Lambeth,</hi> and ſub<g ref="char:EOLhyphen"/>ſcrib'd to by ſeveral of the <hi>Biſhops.</hi>
+            </p>
+            <p>I will Ordain no Man a Deacon unleſs he be 23 years of Age, none Prieſt unleſs he be full and complete 24, as it is indiſpen<g ref="char:EOLhyphen"/>ſably requir'd in the Preface to <hi>the Book of Or<g ref="char:EOLhyphen"/>dinations;</hi> nor unleſs that <hi>Canonical Age</hi> be At<g ref="char:EOLhyphen"/>teſted by <hi>a Certificate</hi> under the <hi>hands and ſeals</hi> of the Miniſter and Church-Wardens where the Perſon was born.</p>
+            <p>I will Ordain none who hath not taken ſome Degree in One of the Univerſities of theſe Realms, unleſs there appear ſuch extra<g ref="char:EOLhyphen"/>ordinary Qualifications in the Perſon, as move the Lord Arch-Biſhop of the Province to
+<pb n="21" facs="tcp:106411:14"/> Grant his Faculty; nor without ſuch a Facul<g ref="char:EOLhyphen"/>ty will I Ordain any Man but upon the Lord's Day immediately following One of <hi>the Faſts of the Four Seaſons;</hi> And none (of what Qualities or Gifts ſoever) both Prieſt, and Deacon, without Interpoſing ſome time between the two Orders.</p>
+            <p>I will Ordain none but ſuch as have liv'd in my Dioeceſs for 3 years laſt paſt, and are either perſonally known to me, or recom<g ref="char:EOLhyphen"/>mended by a Certificate of 3 Neighbour Miniſters at leaſt, ſuch as I ſhall think fit to Rely on, and by Them under their hand and ſeals declar'd in their Judgement worthy of what they deſire, or pretend to; or elſe do bring ſufficient and authentick teſtimony from the Biſhop or Biſhops within whoſe Dioeceſs they have reſided, or from ſome College in the <hi>
+                  <g ref="char:V">Ʋ</g>niverſities</hi> in which they have been <hi>Gremialls.</hi>
+            </p>
+            <p>And I deſire that each <hi>College,</hi> and all the <hi>Clergy</hi> would pleaſe to procure and obſerve <hi>My Lord Archbiſhop's Letters of Direction</hi> ſent us, I think in the year 1678, for the forming of <hi>Letters Teſtimonial</hi> for Holy Orders, for I can hereafter Admit no <hi>Certificates</hi> in any other Form than as His Grace there Directed moſt prudently, and very particularly.</p>
+            <p>I will Ordain none into Holy Orders, but
+<pb n="22" facs="tcp:106411:15"/> ſuch as are Preſented, or Intitled to ſome Eccleſiaſtical Preferment, then void in my Dioeceſe, or have ſome Title ſpecified and allow'd in the 33<hi rend="sup">d</hi> Canon, among which a <hi>Curacy during pleaſure</hi> under a Parſon or Vi<g ref="char:EOLhyphen"/>car (which is the common abuſe) is not to be accounted; nor any Curacy, unleſs that Parſon or Vicar doth under his hand and ſeal, and before witneſs, oblige himſelf to accept of the Perſon to be Ordain'd, and al<g ref="char:EOLhyphen"/>low him ſuch a Salary as I ſhall approve of; and laſtly, not to put the Perſon away, unleſs for reaſons and cauſe to be by Me approv'd.</p>
+            <p>I will Ordain none but ſuch as ſhall a full Month before the day of <hi>Ordination,</hi> bring or ſend to me, or my Regiſter, notice in writing of their deſire to enter into Holy Orders, together with a Certificate of their age, and ſuch Teſtimonials of their Conver<g ref="char:EOLhyphen"/>ſation as afore-ſaid, to the end that I may inquire into all particulars, and alſo give publick notice, and monitions to all Perſons to except againſt ſuch as they may perhaps know not to be Worthy, as is expreſsly re<g ref="char:EOLhyphen"/>quir'd in the Canon 1564. Moreover I ſhall Ordain none but ſuch as ſhall repair to the place of Ordination, at lateſt upon Thurſ<g ref="char:EOLhyphen"/>day in Ember week; to the end that there may be time for the ſtrict and carefull Exa<g ref="char:EOLhyphen"/>mination
+<pb n="23" facs="tcp:106411:15"/> of every Perſon not onely by my ſelf and my Chaplains, but alſo by the Dean and Arch-Deacon, who are by the Canon requir'd to aſſiſt; as alſo that the Perſons to be ordain'd may be preſent in the Cathedral, and obſerve the <hi>Solemn Faſt,</hi> and joyn in <hi>the Solemn Prayers</hi> which are at that time to be put up to God in their behalf.</p>
+            <p n="20">XX. If your ſetting to work for the gaining of ſo many good points Oblige you, or a ſufficient Able Curate for you, not only to a ſtrict <hi>Reſidence</hi> between this and the <hi>Vi<g ref="char:EOLhyphen"/>ſitation,</hi> but after that to an extraordinary Diligence; Conſider I beſeech you, that the Life of a Chriſtian, eſpecially of a Clergy<g ref="char:EOLhyphen"/>man, is compar'd to a <hi>Warfare, a Husbandry, a Fiſhery, a Building, a Trading, a Pilgrimage,</hi> all full of Pains, and Toyles; but then your La<g ref="char:EOLhyphen"/>bour is the <hi>Labour of Love.</hi> If any one ſtill thinks I take too much upon Me, and put too much Task upon Others, let him but attentively read over thoſe two excellent Offices, the One for the <hi>Ordination of Prieſts,</hi> the Other for the <hi>Conſecration of Biſhops.</hi> And I heartily wiſh that once a Week at leaſt, We all of Us would Reviſe, and Reflect on thoſe our <hi>Sacerdotall Obligations;</hi> I wiſh it as heartily as I doe that every Layman, and every Chriſtian would make it a piece of
+<pb n="24" facs="tcp:106411:16"/> his every-days Devotion, to Repeat and Re<g ref="char:EOLhyphen"/>new his <hi>Baptiſmal Vow.</hi> Conſider pray how we ſolemnly plighted our Faith to God, and his Church, before we Receiv'd Impoſition of hands, and the holy Sacrament; And to what we promiſed all our Endeavours in thoſe en<g ref="char:EOLhyphen"/>gaging words, <hi>I will doe ſo, the Lord being my Helper;</hi> Then you will Diſcern what I muſt needs acknowledge, that I have done hither<g ref="char:EOLhyphen"/>to but the leaſt part of my Duty, and that I could doe no leſs than call you to Doe yours; and you will grant me that you, as well as I, have a great deal more to doe <hi>for the freeing of our own Souls,</hi> and for ſecuring to our ſelves any Title to that conditional promiſe, in the words of St <hi>Paul to Timothy his beloved Son, In doing this, thou ſhalt both ſave thy ſelf, and them that hear thee.</hi> Which that we may All doe ſhall be my daily hearty prayer, in which I beſeech you earneſtly to joyn with, and for</p>
+            <closer>
+               <signed>Your Affectionate Friend and Brother in Chriſt, Fran. Ely.</signed>
+               <dateline>Dated from my Houſe at <hi>Ely,</hi> 
+                  <date>Auguſt 4<hi rend="sup">th</hi> 1686.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:106411:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
